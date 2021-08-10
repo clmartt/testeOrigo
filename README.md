@@ -63,7 +63,7 @@ Para os testes de requisições foi usada uma extensão do Chrome Talent API Tes
 
 # Registrando um novo Usuário : POST
 
-![dotenv](./doc/img/registro.png)
+![dotenv](./doc/img/registro.PNG)
 
 <li>Requisição: POST</li>
 http://127.0.0.1:8000/api/auth/registro
@@ -71,7 +71,7 @@ http://127.0.0.1:8000/api/auth/registro
 
 # Logando para Obter Token : POST
 
-![dotenv](./doc/img/login.png)
+![dotenv](./doc/img/login.PNG)
 
 <li>Requisição: POST</li>
 http://127.0.0.1:8000/api/auth/login
@@ -84,7 +84,7 @@ http://127.0.0.1:8000/api/auth/login
 
 # Lista Todos os Clientes
 
-![dotenv](./doc/img/tc.png)
+![dotenv](./doc/img/tc.PNG)
 
 <li>Requisição: POST</li>
 http://127.0.0.1:8000/api/lista/clientes
@@ -99,7 +99,7 @@ http://127.0.0.1:8000/api/lista/clientes
 
 # Consulta por ID
 
-![dotenv](./doc/img/id.png)
+![dotenv](./doc/img/id.PNG)
 
 <li>Requisição: POST</li>
 http://127.0.0.1:8000/api/lista/clientes/3 -- este é o id do cliente
@@ -107,14 +107,14 @@ http://127.0.0.1:8000/api/lista/clientes/3 -- este é o id do cliente
 
 # Consulta por Editar(update)
 
-![dotenv](./doc/img/edit.png)
+![dotenv](./doc/img/edit.PNG)
 
 <li>Requisição: POST</li>
 http://127.0.0.1:8000/api/editar/clientes/21 -- este é o id do cliente.
 
 # Novo Cliente 
 
-![dotenv](./doc/img/novo.png)
+![dotenv](./doc/img/novo.PNG)
 
 <li>Requisição: POST</li>
 http://127.0.0.1:8000/api/inserir/clientes
@@ -122,7 +122,7 @@ http://127.0.0.1:8000/api/inserir/clientes
 
 # Delete Cliente 
 
-![dotenv](./doc/img/delete.png)
+![dotenv](./doc/img/delete.PNG)
 
 <li>Requisição: POST</li>
 http://127.0.0.1:8000/api/delete/clientes/2 -- Id do Cliente.
@@ -135,7 +135,7 @@ http://127.0.0.1:8000/api/delete/clientes/2 -- Id do Cliente.
 
 # Logout
 
-![dotenv](./doc/img/logout.png)
+![dotenv](./doc/img/logout.PNG)
 
 <li>Requisição: POST</li>
 http://127.0.0.1:8000/api/auth/logout
