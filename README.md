@@ -31,7 +31,7 @@ npm run dev
 Ná raiz do projeto cópie o arquivo **.env.exemple** para a raiz do projeto com o nome **.env**
 e adicione/troque os valores das variaveis de ambiente.
 
-![dotenv](./doc/img/dot_env.png)
+
 
 - Conexão com o banco de dados
 ~~~
