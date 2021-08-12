@@ -147,7 +147,7 @@ http://127.0.0.1:8000/api/auth/logout
 O CRUD via API, está feito.
 Como ainda não trabalhei com Angular, posso desenvolver usando outro como o próprio Blade? ou Jascript e Ajax e outros?
 
-Recebi o teste na Sexta feira dia 06 próximo ao fim do dia e só conseguir fazer agora 10/08, pois estava em uma conferência da empresa em que trabalho atualmente.
 
-Qualque duvida estou a disposição.
+
+
 "# origo" 
